@@ -28,4 +28,4 @@ jobs:
         with:
           platforms: linux/arm64,linux/amd64
           push: true
-          tags: multi-arch-test:latest
+          tags: ghcr.io/lannonbr/multi-arch-test:latest
